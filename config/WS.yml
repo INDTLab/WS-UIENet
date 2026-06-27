@@ -1,0 +1,9 @@
+name: "wave_LUIQD"
+model_name: "wave"
+num_epochs: 500
+batch_size: 15
+lr: 0.0001
+weight_decay: 1.2
+img_size: 256
+model_file: "models.wavenet.WaveNet"
+lr_decay: "None"
